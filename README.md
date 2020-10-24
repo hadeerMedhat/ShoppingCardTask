@@ -1,6 +1,6 @@
 # ShoppingCardTask
 
-1) the main page called : shoppingcard.php
+1) the rinning main page called : shoppingcard.php
 
 2) Facade / MVC / Observer design pattern used in the program 
 
